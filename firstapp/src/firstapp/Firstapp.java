@@ -18,7 +18,9 @@ public class Firstapp {
         // TODO code application logic here
         //A few changes here
         
-        System.out.print("Hi");
+        for(int i = 0; i<100; i++){
+            System.out.println(i+": Hi");
+        }
     }
     
 }
